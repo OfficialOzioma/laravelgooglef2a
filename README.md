@@ -5,7 +5,7 @@
 > use must have google authenticator on your phone to scan the barcode.
 > To run this laravel app on your local php you need to have php, apache2, mysql, composer and npm installed,
 
-**Demo link:** `https://laravelgoogle2fa.herokuapp.com/`
+**Demo link:** [Demo](https://laravelgoogle2fa.herokuapp.com/) 
 ### How to run this app on your PC
 - clone this repo
 - Enter your database details in the .env file
