@@ -11,3 +11,16 @@
 - Run `npm install`
 - Run `php artisan migrate`
 - Run `php artisan server`
+
+
+![Screenshot from 2021-06-29 15-53-06](https://user-images.githubusercontent.com/28990981/123822087-df4dc300-d8f3-11eb-9498-18b16abf284c.png)
+
+![Screenshot from 2021-06-29 15-53-37](https://user-images.githubusercontent.com/28990981/123822104-e4127700-d8f3-11eb-81bb-59949606f726.png)
+
+![Screenshot from 2021-06-29 15-53-46](https://user-images.githubusercontent.com/28990981/123822137-eaa0ee80-d8f3-11eb-8599-c9d517685170.png)
+
+![Screenshot from 2021-06-29 16-07-50](https://user-images.githubusercontent.com/28990981/123822603-597e4780-d8f4-11eb-8f99-02ce6083ef34.png)
+
+![Screenshot from 2021-06-29 16-07-02](https://user-images.githubusercontent.com/28990981/123822573-53886680-d8f4-11eb-8090-4649b323bc92.png)
+
+![Screenshot from 2021-06-29 15-54-12](https://user-images.githubusercontent.com/28990981/123822155-ef65a280-d8f3-11eb-9465-3379fe3dafe0.png)

@@ -29,4 +29,4 @@ Route::post('/2fa', function () {
 Route::get('/profile','HomeController@profile')->name('profile');
 Route::get('/about','HomeController@about')->name('about');
 
-Route::get('/re-authenticate', 'HomeController@reauthenticate');
+Route::get('/reauthenticate', 'HomeController@reauthenticate');

@@ -58,6 +58,10 @@
                             <li class="nav-item">
                                 <a class="nav-link mr-5" href="{{ route('about') }}">{{ __('About us') }}</a>
                             </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link mr-5" href="{{ url('reauthenticate') }}">{{ __('Reauthenticate') }}</a>
+                            </li>
                             <li class="nav-item dropdown">
                                 <a id="navbarDropdown" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre>
                                     {{ Auth::user()->name }}
